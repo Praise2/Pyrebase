@@ -10,6 +10,7 @@ Does your business or project depend on Pyrebase? Reach out to pibals@protonmail
 
 ```python
 pip install pyrebase
+Test
 ```
 
 ## Getting Started
